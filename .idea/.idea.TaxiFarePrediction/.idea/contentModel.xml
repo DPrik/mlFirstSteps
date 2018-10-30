@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_TaxiFarePrediction.990678193.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TaxiFarePrediction" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="Model.zip" t="Include" />
+          <e p="taxi-fare-test.csv" t="Include" />
+          <e p="taxi-fare-train.csv" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TaxiFarePrediction.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaxiFarePrediction.csproj" t="IncludeRecursive" />
+        <e p="TaxiTrip.cs" t="Include" />
+        <e p="TestTrips.cs" t="Include" />
+      </e>
+      <e p="TaxiFarePrediction.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/bin/Debug/netcoreapp2.0/TaxiFarePrediction.deps.json
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/bin/Debug/netcoreapp2.0/TaxiFarePrediction.runtimeconfig.json
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/bin/Debug/netcoreapp2.0/TaxiFarePrediction.runtimeconfig.dev.json
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/bin/Debug/netcoreapp2.0/TaxiFarePrediction.dll
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/bin/Debug/netcoreapp2.0/TaxiFarePrediction.pdb
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/obj/Debug/netcoreapp2.0/TaxiFarePrediction.csprojAssemblyReference.cache
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/obj/Debug/netcoreapp2.0/TaxiFarePrediction.csproj.CoreCompileInputs.cache
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/obj/Debug/netcoreapp2.0/TaxiFarePrediction.AssemblyInfoInputs.cache
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/obj/Debug/netcoreapp2.0/TaxiFarePrediction.AssemblyInfo.cs
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/obj/Debug/netcoreapp2.0/TaxiFarePrediction.dll
+/Users/dishdishes/RiderProjects/TaxiFarePrediction/TaxiFarePrediction/obj/Debug/netcoreapp2.0/TaxiFarePrediction.pdb
